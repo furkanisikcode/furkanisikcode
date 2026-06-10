@@ -9,7 +9,7 @@ I'm a Software Engineering student interested in backend development, web techno
 -  Currently learning .NET Core MVC, Python, and Deep Learning
 -  Working on projects related to web development and machine learning
 
-## 🛠️ Technologies & Tools
+##  Technologies & Tools
 
 - Python
 - C#
