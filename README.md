@@ -36,4 +36,4 @@ A basic website project built with HTML and CSS.
 ##  Contact
 
 - GitHub: [furkanisikcode](https://github.com/furkanisikcode)
-- LinkedIn: [Furkan Isik](https://www.linkedin.com/in/furkanisik)
+- LinkedIn: [Furkan Isik](https://www.linkedin.com/in/furkanisikcode/)
