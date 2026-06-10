@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Furkan 
 
-<!--
-**furkanisikcode/furkanisikcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineering student interested in backend development, web technologies, and artificial intelligence.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  Software Engineering Student
+-  Interested in Backend Development and AI
+-  Currently learning .NET Core MVC, Python, and Deep Learning
+-  Working on projects related to web development and machine learning
+
+## 🛠️ Technologies & Tools
+
+- Python
+- C#
+- Java
+- HTML / CSS
+- .NET Core MVC
+- TensorFlow / Keras
+- Git & GitHub
+
+##  Featured Projects
+
+### Deepfake Detection API
+A REST API project for detecting deepfake images using EfficientNetV2M.
+
+### Student Management MVC
+A student automation system developed with .NET Core MVC.
+
+### TFM Survivor Leaderboard
+A simple survival/leaderboard project made for Transformice.
+
+### My First Website
+A basic website project built with HTML and CSS.
+
+##  Contact
+
+- GitHub: [furkanisikcode](https://github.com/furkanisikcode)
+- LinkedIn: Coming soon
